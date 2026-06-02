@@ -5,7 +5,7 @@
 ### 🚀 Official Android Application
 
 <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" />
-<img src="https://img.shields.io/badge/Version-v1.1.0-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Version-v1.0.9-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge" />
 
 ### 📱 Order Delicious Food With Ease
@@ -24,8 +24,8 @@ Fast • Secure • Reliable
 
 | Download Source | Link                                                       |
 | --------------- | ---------------------------------------------------------- |
-| 📦 Mega         | **[Download APK](https://mega.nz/your-link-here)**         |
-| 🔒 Proton Drive | **[Download APK](https://drive.proton.me/your-link-here)** |
+| 📦 Mega         | **[Download APK](https://mega.nz/file/tAt0waCT#-TcAPWt0C1FT-Pk8ldXYuVz4tW13vz5_eIhTGwfwL3U)**         |
+| 🔒 Proton Drive | **[Download APK](https://drive.proton.me/urls/5WAT6HT6D8#SFyRcdUz41tc)** |
 
 </div>
 
@@ -137,7 +137,7 @@ To update the application:
 | Property        | Value          |
 | --------------- | -------------- |
 | App Name        | Samosa Badshah |
-| Current Version | v1.1.0         |
+| Current Version | v1.0.9         |
 | Platform        | Android        |
 | Release Type    | Stable         |
 | Category        | Food Ordering  |
