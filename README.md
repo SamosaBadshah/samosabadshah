@@ -64,7 +64,7 @@ Fast • Secure • Reliable
 
 ---
 
-## 🆕 Latest Updates (v1.1.0)
+## 🆕 Latest Updates (v1.0.9)
 
 ### 🚚 Live Delivery Tracking
 
